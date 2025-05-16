@@ -16,7 +16,7 @@ list_of_files = [
     
     "models/.gitkeep",
     "notebooks/trials.ipynb",
-    "templates/index.html"
+    "templates/index.html",
     
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/data/__init__.py",
